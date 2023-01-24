@@ -1,0 +1,13 @@
+---
+title: "Adventures_landing"
+---
+
+These are not intended to be "Ten best lists", travel blogs, or recommendations, only a description of my experience.
+
+### [Tequila Tasting in Tequila, Mexico](tequila.qmd)
+
+### Hiking the O, Torres del Paine National Park (March 2023)
+
+<!--### [Oktoberfest in Munich, Germany]()-->
+
+<!--### [Trailing of the Sheep in Ketchum, Idaho]()-->

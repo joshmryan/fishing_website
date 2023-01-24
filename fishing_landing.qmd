@@ -1,0 +1,35 @@
+---
+title: "fishing_landing"
+---
+
+Utah introduced its cutt slam shortly after I (finally) learned how to consistently catch fish on the fly, and I was immediately intrigued by the concept. It forced me to learn more about the fish I was catching, explore waters I normally wouldn't, and challenge myself by learning new techniques to tackle new waters.
+
+While I extensively researched the places I'd fish for my challenge, I was frustrated with a lot of the information I read from other sources. I found most websites to be long on fish pictures and short on details. This made things difficult because I was unsure how to prepare, what kinds of flies to use (though I think this is largely overrated), and what kind of water I'd be fishing. In some cases I couldn't figure out where or how to access the streams.
+
+The most important thing for me when fishing is to have a positive experience: good fishing, small crowds, nice scenery. And, for most of us, it isn't feasible to drive four or five hours to a fishing spot, only to realize that there isn't public access or the creek is full of brook trout. As a result, this site is short on pictures but, I hope, long on details. I mostly skip the grip-and-grin fish pictures, and focus on the water and scenery. When researching my own slams I wanted to know what the water looked like to get a sense of its size and type. In general, I know what fish look like.
+
+<!--#I think a lot of websites imply that anglers have unlimited time and money to catch fish. I don't have a boat, I don't know anyone with private water, and I have a full time job.-->
+
+## Fish Slams
+
+A summary of my completed and in progress slams can be found here. I provide details on where and how I caught my fish. Unless otherwise noted, all fish were caught on dry flies and released. I am in the process of creating this website, so more information will become available as I update.
+
+### [Utah Cutthroat Slam](utah_cutt_slam.qmd)
+
+### [Wyoming Cutt Slam](wyoming_cutt_slam.qmd)
+
+### [Nevada Native Fish Slam](nevada_fish_slam.qmd)
+
+### [California Heritage Trout Challenge](california_heritage_slam.qmd)
+
+### Western Native Trout Challenge (completed, write-up coming soon)
+
+## Other Waters
+
+### Fishing Patagonia (March 2023)
+
+<!--#Backpacking Setup-->
+
+N.B.: I know it's considered by many to be problematic to post locations of good fishing spots, but all the waters described here can be found on the state wildlife agency websites, on other personal websites, and in many Youtube videos, so I'm not giving away any secrets. Also, most of these spots (with a few exceptions) are not exactly blue ribbon, 20-inch fish, trout streams. The vast majority of waters I have fished, especially in Utah and Nevada, are small and brushy with small fish. I write about the Logan and other Cache Valley rivers in greater detail because these are my local fishing spots, but the Logan is already well-known as high quality fly fishing river. A google search for "Logan River fishing" shows the first two results are from visitUtah.com and Utah.com. I hope this information is valuable for others interested in fly fishing and pursuing native trout challenges.
+
+I also want to note that I receive no compensation from this website, and none of the products I recommend or equipment I use are sponsored.
